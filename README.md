@@ -12,3 +12,5 @@ Application features -
 * [x] Substraction
 * [x] Multiplication
 * [x] Division
+
+Improve the code so that it can perform complex calculation.
